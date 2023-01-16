@@ -30,3 +30,8 @@
 - git branch
 > Lokális és távoli ágak listázása
 - git branch -av
+> Ág létrehozása
+- git branch új_ág_neve
+- git checkout -b új_ág_neve
+> Váltás egy másik ágra
+- git checkout másik_ág_neve
