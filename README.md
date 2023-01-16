@@ -28,4 +28,5 @@
 ## 9. Ágak (branches) kezelése
 > Lokális ágak listázása
 - git branch
-- 
+> Lokális és távoli ágak listázása
+- git branch -av
