@@ -37,3 +37,6 @@
 - git checkout másik_ág_neve
 > Ág törlése
 - git branch -d törlendő_ág_neve
+> Változások átvezetése (merge)
+- git checkout ahova_kerulnek_a_valtozasok
+- git merge ahonnan_athozzuk_a_valtozasokat
