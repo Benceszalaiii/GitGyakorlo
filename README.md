@@ -35,3 +35,5 @@
 - git checkout -b új_ág_neve
 > Váltás egy másik ágra
 - git checkout másik_ág_neve
+> Ág törlése
+- git branch -d törlendő_ág_neve
